@@ -24,18 +24,6 @@
     ]
   },
   {
-    "id": "2",
-    "key": "2",
-    "quadrant": "3",
-    "title": "AWS EMR",
-    "timeline": [
-      {
-        "ringId": "0",
-        "date": "2022-04-27T15:45:35.273Z"
-      }
-    ]
-  },
-  {
     "id": "3",
     "key": "3",
     "quadrant": "3",
