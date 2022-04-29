@@ -314,7 +314,7 @@
   {
     "id": "26",
     "key": "26",
-    "quadrant": "2",
+    "quadrant": "3",
     "title": "RabbitMQ",
     "timeline": [
       {
@@ -326,7 +326,7 @@
   {
     "id": "27",
     "key": "27",
-    "quadrant": "2",
+    "quadrant": "3",
     "title": "AWS SNS",
     "timeline": [
       {
