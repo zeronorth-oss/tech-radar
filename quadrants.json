@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Languages",
+    "id": "0"
+  },
+  {
+    "name": "Infrastructure",
+    "id": "1"
+  },
+  {
+    "name": "Datastores",
+    "id": "2"
+  },
+  {
+    "name": "Data Management",
+    "id": "3"
+  }
+]
